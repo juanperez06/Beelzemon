@@ -3,6 +3,7 @@ body{
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	line-height: 30px;
+	background-color: lightgray;
 }
 
 header{
@@ -32,6 +33,7 @@ main {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px;
+
 }
 
 main img {
@@ -50,6 +52,7 @@ a{
 
 a:hover{
 	color: #FFD700;
+	
 }
 
 footer{
